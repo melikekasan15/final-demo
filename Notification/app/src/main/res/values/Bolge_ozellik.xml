@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Bolge_ozellik">
+        <item>
+            BÖLGE_NO : 1
+            O.SICAKLIK: 25+
+            HASTALIK DERECESİ: ORTA
+            ACİLLİK DURUMU : 2.DERECE
+        </item>
+        <item>
+            BÖLGE_NO : 2
+            O.SICAKLIK: 10+
+            HASTALIK DERECESİ: DÜŞÜK
+            ACİLLİK DURUMU : 1.DERECE
+        </item>
+        <item>
+            BÖLGE_NO : 3
+            O.SICAKLIK: 25+
+            HASTALIK DERECESİ: İLERİ
+            ACİLLİK DURUMU : 3.DERECE
+        </item>
+        <item>
+            BÖLGE_NO : 4
+            O.SICAKLIK: 15+
+            HASTALIK DERECESİ: ORTA
+            ACİLLİK DURUMU : 2.DERECE
+        </item>
+
+
+    </string-array>
+</resources>

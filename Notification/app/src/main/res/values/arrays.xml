@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name ="item_name">
+        <item>Auto</item>
+        <item>Potrait</item>
+        <item>Landspace</item>
+    </string-array>
+
+    <string-array name="item_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="items_name">array</string-array>
+    <string-array name="items_value">value</string-array>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "508294364990",
+    "firebase_url": "https://erkenuyar-a90a1.firebaseio.com",
+    "project_id": "erkenuyar-a90a1",
+    "storage_bucket": "erkenuyar-a90a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508294364990:android:71c8e929112e1c9876366f",
+        "android_client_info": {
+          "package_name": "tr.edu.mu.ceng.gui.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508294364990-o6qft165kl6d2th5atjrbm66eje9uhuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWxU6-1sbDdDS48JCMw_N9edzOA_i1Gns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508294364990-o6qft165kl6d2th5atjrbm66eje9uhuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

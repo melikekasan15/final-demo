@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="tr.edu.mu.ceng.gui.notification">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="ErkenUyar"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Details"></activity>
+        <activity android:name=".HavaDurumu" />
+        <activity android:name=".Preference" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".Ayarlar" />
+        <activity android:name=".Gecmis" />
+        <activity android:name=".Ekle" />
+        <activity android:name=".Bolgeler" />
+        <activity android:name=".Bildirimler" />
+        <activity android:name=".Home">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
